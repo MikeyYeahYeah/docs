@@ -279,6 +279,7 @@ versions installed:
   - 6.4 Build version 6E35b
   - 7.0 Build version 7A218
   - 7.1.1 Build version 7B1005
+  - 7.2 Build version 7C68
 - Facebook xctool 0.2.7
 - CocoaPods 0.39.0
 - xcpretty 0.1.12
